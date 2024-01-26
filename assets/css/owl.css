@@ -184,3 +184,17 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+  .whatsapp-icon {
+    position: fixed;
+    bottom: 20px; /* Ajusta la distancia desde el borde inferior según tus preferencias */
+    right: 20px; /* Ajusta la distancia desde el borde derecho según tus preferencias */
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    /* Agrega otros estilos según tus necesidades */
+}
+
+.whatsapp-icon img {
+    width: 50px; /* Ajusta el tamaño del icono según tus preferencias */
+    height: 50px; /* Ajusta el tamaño del icono según tus preferencias */
+    /* Agrega otros estilos según tus necesidades */
+}
