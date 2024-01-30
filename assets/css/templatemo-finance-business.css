@@ -1061,6 +1061,26 @@ footer .contact-form button.filled-button:hover {
 	color: #fff;
 }
 
+.page-heading1 {
+	text-align: center;
+	background-image: url(../images/page-heading-bg1.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #fff;
+}
+
+.page-heading2 {
+	text-align: center;
+	background-image: url(../images/page-heading-bg2.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #fff;
+}
+
 .page-heading h1 {
 	text-transform: capitalize;
 	font-size: 36px;
